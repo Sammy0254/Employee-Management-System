@@ -9,7 +9,7 @@ Here’s a professional LinkedIn post announcing your project:
 
 🚀 **Excited to Share My Latest Project!**  
 
-I’ve recently developed an **Employee Management System**, a web application designed to streamline employee record management with a focus on user-friendly interfaces and data security.  
+I have recently developed an **Employee Management System**, a web application designed to streamline employee record management with a focus on user-friendly interfaces and data security.  
 
 🔑 **Features**:
 - Add, View, Update, and Delete Employee Records.
